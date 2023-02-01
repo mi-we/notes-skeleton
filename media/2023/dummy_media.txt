@@ -1,0 +1,1 @@
+This file is just for retaining the directory structure and can be replace with actual media files.

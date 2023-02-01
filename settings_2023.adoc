@@ -1,0 +1,5 @@
+:imagesdir: ../media/2023
+:icons: font
+:linkcss:
+:stylesheet: ../styles/styles_2022-10.css
+:toc:

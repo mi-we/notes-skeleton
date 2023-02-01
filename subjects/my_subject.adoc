@@ -1,0 +1,4 @@
+= Subject page
+include::../settings_2023.adoc[]
+
+This page represents a subject

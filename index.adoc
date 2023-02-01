@@ -1,0 +1,14 @@
+= My Notes
+:linkcss:
+
+== Monthly Index
+
+* xref:pages/2023-02.adoc[2023-02]
+
+== Subjects
+
+* xref:subjects/my_subject.adoc[A new subject]
+
+== Template Blocks
+
+Space for text blocks that are needed all the time
